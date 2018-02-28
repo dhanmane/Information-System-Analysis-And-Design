@@ -9,4 +9,4 @@ Application of these tools to a systems development project was required. The fi
 Description of the project:
 ‘Little Voices’ Online Management System: Implemented a portal and management system that enabled Adoption Organization to track information of several departments on a one-stop platform.
 
-For more details about the project, please go through the files attached.
+For more details about the project, please go through the "ISAD REPORT.PDF" attached
